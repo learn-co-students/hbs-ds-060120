@@ -57,16 +57,16 @@ For this project, your Jupyter Notebook should meet the following specifications
 ## Logistics
 
 ### Groups
-Team 1: Cong Xu, Paige Tsai
-Team 2: Mark Thai, Lingxi Huang
-Team 3: Adebodun Aina, Reginald Seawright
-Team 4: Cathy Xu, Thomas Crispi
-Team 5: Jay Kim, Kyle Betts
-Team 6: Quentin Grigsby, Yuki Yaguchi
-Team 7: Joshua Rodriguez, Colm Farrell
-Team 8: Marta Zwierz, Abdoul Aziz Nguer
-Team 9: Carmi Medoff, John Guo
-Team 10: Kaitlin Ahlers, Rocio Wu
+Team 1: Cong Xu, Paige Tsai  
+Team 2: Mark Thai, Lingxi Huang  
+Team 3: Adebodun Aina, Reginald Seawright  
+Team 4: Cathy Xu, Thomas Crispi  
+Team 5: Jay Kim, Kyle Betts  
+Team 6: Quentin Grigsby, Yuki Yaguchi  
+Team 7: Joshua Rodriguez, Colm Farrell  
+Team 8: Marta Zwierz, Abdoul Aziz Nguer  
+Team 9: Carmi Medoff, John Guo  
+Team 10: Kaitlin Ahlers, Rocio Wu  
 Team 11: Yongwei Gao, Yazan Abughaida
 
 ### Schedule
