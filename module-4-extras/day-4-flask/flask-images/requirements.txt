@@ -1,0 +1,9 @@
+Flask
+tensorflow
+requests
+numpy
+gunicorn
+opencv-python-headless
+scipy
+pillow
+imageio
